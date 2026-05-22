@@ -156,24 +156,6 @@ https://convoy-v2.onrender.com/docs
 - Production mobile deployment
 
 ---
-
-# Screenshots
-
-Add screenshots of:
-- Mobile application
-- Login screen
-- Swagger API docs
-- PostgreSQL database
-- Convoy creation flow
-
-Example:
-
-```md
-![App Screenshot](screenshots/app.png)
-```
-
----
-
 # Author
 
 Gabriel Mathieu
